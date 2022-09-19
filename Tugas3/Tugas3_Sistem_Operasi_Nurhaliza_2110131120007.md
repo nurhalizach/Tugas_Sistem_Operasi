@@ -21,17 +21,17 @@ Sistem operasi dapat melakukan manajemen proses seperti membuat dan menghapus pr
 
 1. Buka task manager, bisa dengan menekan tombol Ctrl+Alt+Del lalu pilih Task Manager atau dengan cara klik kanan pada Task Bar lalu pilih Task Manager.
 <p class="pic">
-    <img src="contoh/KA1.png" style="width: 400px;">
+    <img src="contoh/KA1.PNG" style="width: 400px;">
 </p>
 
 2. Klik more details
    <p class="pic">
-    <img src="contoh/KA2.png" style="width: 400px;">
+    <img src="contoh/KA2.PNG" style="width: 400px;">
 </p>
 
 3. temukan program yang mengalami not responding tersebut
 <p class="pic">
-    <img src="contoh/KA3.png" style="width: 400px;">
+    <img src="contoh/KA3.PNG" style="width: 400px;">
 </p>
 
 4. klik kanan lalu pilih end task
@@ -43,17 +43,17 @@ Sistem operasi mengimplementasikan konsep abstrak dari berkas dan mengatur media
 
 1. Klik ikon folder pada taskbar atau dengan cara tekan tombol logo Windows + e
 <p class="pic">
-    <img src="contoh/KB1.png" style="width: 500px;">
+    <img src="contoh/KB1.PNG" style="width: 500px;">
 </p>
 
 2. pilih tempat untuk membuat folder baru, kemudian klik new folder pada bagian atas
 <p class="pic">
-    <img src="contoh/KB2.png" style="width: 400px;">
+    <img src="contoh/KB2.PNG" style="width: 400px;">
 </p>
 
 3. ketikkan nama folder kemudian tekan enter
 <p class="pic">
-    <img src="contoh/KB3.png" style="width: 400px;">
+    <img src="contoh/KB3.PNG" style="width: 400px;">
 </p>
 
 4. untuk menyimpan file ke folder baru , silahkan klik save kemudian telusuri folder baru yang ingin di gunakan
@@ -65,13 +65,13 @@ Sistem Operasi menunggu instruksi dari pengguna (command driven). Program yang m
 1. tekan Windows + R pada keyboard
 2. ketik cmd kemudian tekan enter
 <p class="pic">
-    <img src="contoh/KC1.png" style="width: 400px;">
+    <img src="contoh/KC1.PNG" style="width: 400px;">
 </p>
 
 
 3. ketik shutdown –s kemudian tekan enter
 <p class="pic">
-    <img src="contoh/KC3.png" style="width: 500px;">
+    <img src="contoh/KC3.PNG" style="width: 500px;">
 </p>
 
 4. laptop akan mati kurang dari satu menit
@@ -85,27 +85,27 @@ Layanan pembuatan program adalah fasilitas yang membantu programer menulis progr
 
 1. buka aplikasi notepad
 <p class="pic">
-    <img src="contoh/LA1.png" style="width: 500px;">
+    <img src="contoh/LA1.PNG" style="width: 500px;">
 </p>
 
 2. tuliskan kode program pada notepad
 <p class="pic">
-    <img src="contoh/LA2.png" style="width: 500px;">
+    <img src="contoh/LA2.PNG" style="width: 500px;">
 </p>
 
 3. jika sudah selesai, silahkan simpan file dengan membuka tab file pada bagian kiri atas kemudian klik save as
 <p class="pic">
-    <img src="contoh/LA3.png" style="width: 500px;">
+    <img src="contoh/LA3.PNG" style="width: 500px;">
 </p>
 
 4. tuliskan nama file, kemudian ubah save as type menjadi all file
 <p class="pic">
-    <img src="contoh/LA4.png" style="width: 500px;">
+    <img src="contoh/LA4.PNG" style="width: 500px;">
 </p>
 
 5. tuliskam ekstensi program di akhir nama file
 <p class="pic">
-    <img src="contoh/LA5.png" style="width: 500px;">
+    <img src="contoh/LA5.PNG" style="width: 500px;">
 </p>   
 
 6. klik enter
@@ -116,12 +116,12 @@ Accounting adalah kegiatan merekam aktifitas pengguna, report pemakaian sumber d
 
 1. Buka task manager, bisa dengan menekan tombol Ctrl+Alt+Del lalu pilih Task Manager atau dengan cara klik kanan pada Task Bar lalu pilih Task Manager.
 <p class="pic">
-    <img src="contoh/LB1.png" style="width: 500px;">
+    <img src="contoh/LB1.PNG" style="width: 500px;">
 </p>
 
 2. klik bagian Processes
 <p class="pic">
-    <img src="contoh/LB2.png" style="width: 500px;">
+    <img src="contoh/LB2.PNG" style="width: 500px;">
 </p>
 
 
@@ -131,17 +131,17 @@ Sistem manipulasi berkas adalah kemampuan program untuk operasi pada berkas (mem
 
 1. buka file manager lalu buka tempat folder tersebut berada
 <p class="pic">
-    <img src="contoh/LC1.png" style="width: 500px;">
+    <img src="contoh/LC1.PNG" style="width: 500px;">
 </p>  
 
 2. klik folder
 <p class="pic">
-    <img src="contoh/LC2.png" style="width: 500px;">
+    <img src="contoh/LC2.PNG" style="width: 500px;">
 </p>
 
 3. Klik kanan kemudian pilih delete
 <p class="pic">
-    <img src="contoh/LC3.png" style="width: 500px;">
+    <img src="contoh/LC3.PNG" style="width: 500px;">
 </p>
 
 
